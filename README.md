@@ -6,7 +6,7 @@
 ## Ing...
 
 [알고리즘 스터디](https://github.com/deviation-365/algorithm-study) : 일주일에 세 문제씩 문제를 풀고, 슬랙을 통해 서로 코드 리뷰를 진행하고 있습니다.  
-[CSS Selector](https://github.com/kowoohyuk/css-selector) : [CSS diner](https://flukeout.github.io/)에 감명을 받아 시작하는 프로젝트로 11월 중, 1레벨 완성을 목표로 작업하고 있습니다.
+[CSS Selector](https://github.com/kowoohyuk/css-selector) : [CSS diner](https://flukeout.github.io/)를 모티브로 만드는 프로젝트 입니다. 현재 3레벨까지 확인하실 수 있습니다.
 
 ![kowoohyuk github stats](https://github-readme-stats.vercel.app/api?username=kowoohyuk&show_icons=true)
 
