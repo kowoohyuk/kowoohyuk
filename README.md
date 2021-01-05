@@ -2,12 +2,12 @@
 
 프론트엔드에 관심이 많은 프로그래머 입니다! 👋
 
-
+<!--
 ## Ing...
 
 [알고리즘 스터디](https://github.com/deviation-365/algorithm-study) : 일주일에 세 문제씩 문제를 풀고, 슬랙을 통해 서로 코드 리뷰를 진행하고 있습니다.  
 [CSS Selector](https://kowoohyuk.github.io/css-selector/) : [CSS diner](https://flukeout.github.io/)를 모티브로 작업 중인 프로젝트 입니다. 11월까지 최소 20레벨이상 확장할 예정입니다.
-
+-->
 ![kowoohyuk github stats](https://github-readme-stats.vercel.app/api?username=kowoohyuk&show_icons=true)
 
 <!--
